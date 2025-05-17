@@ -2,7 +2,7 @@
 
 **A dreamlike 3D platformer created in Unity during a 48h Game Jam**
 
-<img src="img/icone.png" width="400" />
+<img src="img/Icone.png" width="400" />
 
 ## 📜 **Project Description**
 
