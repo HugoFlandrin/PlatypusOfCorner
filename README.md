@@ -53,7 +53,7 @@ Time is limited — and if it runs out, the dream fades.
     ├── Assets/                     # Game content (scripts, scenes, models, etc.)
     ├── Packages/                   # Unity package references
     ├── ProjectSettings/            # Project configuration
-├── Build/                      # Compiled game (Windows .exe)
+├── GameBuild/                      # Compiled game (Windows .exe)
     ├── PlatypusOfCorner.exe        # File to launch to play
 ├── img/                        # Images for README.md
 ├── README.md
