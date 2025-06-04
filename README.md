@@ -35,7 +35,7 @@ Time is limited — and if it runs out, the dream fades.
 
 ## 🚀 **Installation and Setup**
 
-1. Download the latest release from the **Build** folder.
+1. Download the ZIP file from [itch.io](https://hugoflandrin.itch.io/platypus-of-corner).
 2. Unzip the archive.
 3. Launch `PlatypusOfCorner.exe`.
 4. Explore the dream world!
